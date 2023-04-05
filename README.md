@@ -2,6 +2,8 @@
 
 * TODO: Details specific to the student's implementation to be added by the student 
 
+Link to documentation: https://drive.google.com/file/d/1rfihqXRSRXTZr8I45qOyfrpni15uqyCI/view?usp=share_link
+
 ## Usage
 
 * Define the configuration for your experiment. See `default.json` to see the structure and available options. You are free to modify and restructure the configuration as per your needs.
